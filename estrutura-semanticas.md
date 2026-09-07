@@ -28,16 +28,16 @@ A tag **\<head></head>** define as configurações que podemos enviar para o nav
 
 A tag **\<meta>** permite informar ao navegador como ele deve ser comportar durante a renderização da página.
 
-1. **<meta charset="UTF-8">**: Permite informar ao navegador que a renderização será realizada
+1. **\<meta charset="UTF-8">**: Permite informar ao navegador que a renderização será realizada
 pelo UTF-8
 
-2. **<meta name="viewport" content="width=device-width, initial-scale=1.0">**: Define as configurações de como será a exibição do navegador na tela do dispositivo.
+2. **\<meta name="viewport" content="width=device-width, initial-scale=1.0">**: Define as configurações de como será a exibição do navegador na tela do dispositivo.
 
-3. **<meta name="description" content="Página do meu serviço">**: Define as informações da página sobre algum contexto.
+3. **\<meta name="description" content="Página do meu serviço">**: Define as informações da página sobre algum contexto.
 
-4. **<meta name="author" content="Tux elixir">**: Define o desenvolvedor da página.
+4. **\<meta name="author" content="Tux elixir">**: Define o desenvolvedor da página.
 
-5. **<meta name="keywords" content="test, tux, device, services, hardwares">**: Define palavras-chaves para os mecanismos de busca. Não muito utilizada no momento.
+5. **\<meta name="keywords" content="test, tux, device, services, hardwares">**: Define palavras-chaves para os mecanismos de busca. Não muito utilizada no momento.
 
 ### title
 
