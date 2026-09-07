@@ -24,7 +24,7 @@ Podemos inserir o atributo **lang="pt-br"** para que o navegador defina qual a l
 
 A tag **\<head></head>** define as configurações que podemos enviar para o navagador ao carregar a página.
 
-### <meta>
+### meta
 
 A tag **\<meta>** permite informar ao navegador como ele deve ser comportar durante a renderização da página.
 
@@ -39,7 +39,7 @@ pelo UTF-8
 
 5. **<meta name="keywords" content="test, tux, device, services, hardwares">**: Define palavras-chaves para os mecanismos de busca. Não muito utilizada no momento.
 
-### <title>
+### title
 
 Define um título que será exibido no navegador.
 
@@ -51,7 +51,7 @@ Define um título que será exibido no navegador.
 </head>
 ```
 
-### <body></body>
+### body
 
 A tag **\<body>** é onde ficam os códigos que serão exibidos no navegador para o usuário.
 
