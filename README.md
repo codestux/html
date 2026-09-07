@@ -27,9 +27,9 @@ Minhas anotações dos estudos sobre HTML.
   - [Definição de processamento do navegador para códigos HTML5](estrutura-semanticas.md#definição-de-processamento-do-navegador-para-códigos-HTML5)
   - [Definindo o conteúdo HTML para o navegador](estrutura-semanticas.md#definindo-o-conteúdo-HTML-para-o-navegador)
   - [Passando informações para o navegador](estrutura-semanticas.md#passando-informações-para-o-navegador)
-    - [<meta>](estrutura-semanticas.md#meta)
-    - [<title>](estrutura-semanticas.md#title)
-    - [<body>](estrutura-semanticas.md#body)
+    - [meta](estrutura-semanticas.md#meta)
+    - [title](estrutura-semanticas.md#title)
+    - [body](estrutura-semanticas.md#body)
   - [Estrutura básica de uma página](estrutura-semanticas.md#estrutura-básica-de-uma-página
 )
   - [Tag header](estrutura-semanticas.md#tag-header)
